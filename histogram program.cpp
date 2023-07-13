@@ -40,3 +40,4 @@ void printHistogram(int *hist, int n) {
       printf("\n");
    }
 }
+//////this for clone testing now.
